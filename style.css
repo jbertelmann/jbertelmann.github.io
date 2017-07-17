@@ -1,1 +1,11 @@
-.
+.header {
+  background-color: LightCoral;
+}
+
+.information {
+  background-color: LightSalmon;
+}
+
+.data {
+  background-color: PeachPuff;
+}
