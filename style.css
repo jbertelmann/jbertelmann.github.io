@@ -3,19 +3,19 @@
 }
 
 .header {
-  margin: 0px;
+  margin: 0;
   padding: 0px;
   background-color: LightCoral;
 }
 
 .information {
-  margin: 0px;
+  margin: 0;
   padding: 0px;
   background-color: LightSalmon;
 }
 
 .data {
-  margin: 0px;
+  margin: 0;
   padding: 0px;
   background-color: PeachPuff;
 }
