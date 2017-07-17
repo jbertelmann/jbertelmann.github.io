@@ -4,13 +4,16 @@
 }
 
 .header {
+  margin = 0;
   background-color: LightCoral;
 }
 
 .information {
+  margin = 0;
   background-color: LightSalmon;
 }
 
 .data {
+  margin = 0;
   background-color: PeachPuff;
 }
